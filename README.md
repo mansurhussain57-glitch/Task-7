@@ -1,1 +1,1 @@
-# Task-7
+This task provided practical exposure to malware classification and basic behavior analysis. Using VirusTotal, different malware characteristics and indicators were studied. The task enhanced understanding of how malware operates, spreads, and can be detected using security tools.
